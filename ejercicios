@@ -1,0 +1,30 @@
+{
+    "nombre": "morfeo",
+    "trabajo": "residente de sión",
+    "actualizado en": "2023-07-19T18:30:20.333Z"
+}
+
+{
+    "identificación": 4,
+    "token": "QpwL5tke4Pnpja7X4"
+}
+
+{
+     "nombre":  "Mario"
+     "trabajo":  "gerente" 
+}
+
+
+{
+    "datos": {
+        "identificación": 2,
+        "name": "rosa fucsia",
+        "año": 2001,
+        "color": "#C74375",
+        "pantone_value": "17-2031"
+    },
+    "apoyo": {
+        "url": " https://reqres.in/#support-heading ",
+        "text": "¡Para mantener ReqRes gratis, se agradecen las contribuciones a los costos del servidor!"
+    }
+}
